@@ -1,0 +1,23 @@
+h1 {
+    background-color: #9a3b38;
+    color: white;
+    font-size: 47px;   
+    font-weight: bolder;
+    text-align: center;
+}
+
+h2 {
+    background-color: #c08261;
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+    background-color: #e2c799;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}

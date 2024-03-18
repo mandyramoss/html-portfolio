@@ -1,0 +1,15 @@
+
+h3 {
+    background-color: #3a506b;
+}
+
+
+h1,
+h2,
+h3 {
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
